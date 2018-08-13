@@ -73,7 +73,7 @@ The correct number is 777! YEAH!
 
 ## Thoughts and future improvements
 
-* Details of the Luhn algorithm can be found [here](https://en.wikipedia.org/wiki/Luhn_algorithm).
+* Since this is a rather simple beginner's project, no further improvements will be made.
 
 ## Contributing to this project
 
